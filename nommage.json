@@ -14,6 +14,13 @@
     },
     "version": "1.0.0"
   },
+  "paths": {
+    "/os": {},
+    "localisations": {},
+    "fonctions": {},
+    "environnements": {},
+    "/applications": {}
+  },
   "components": {
     "securitySchemes": {
       "HTTP Security": {
