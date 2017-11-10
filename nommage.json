@@ -19,7 +19,12 @@
     "localisations": {},
     "fonctions": {},
     "environnements": {},
-    "/applications": {}
+    "/applications": {
+      "get": {
+        "summary": "Liste des applications",
+        "description": "La liste des applications ayant des actifs dont le nommage Ã  Ã©tÃ© gÃ©nÃ©rÃ© par nommage"
+      }
+    }
   },
   "components": {
     "securitySchemes": {
