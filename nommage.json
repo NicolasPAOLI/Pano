@@ -1,1 +1,31 @@
-{"info":{"title":"nommage","description":"Norme de nommage","version":"1.0.0"},"openapi":"3.0.0"}
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "nommage",
+    "description": "Norme de nommage",
+    "contact": {
+      "name": "DOSN A&P",
+      "url": "https://dsipedia.sncf.fr/index.php/Norme_de_nommage_des_serveurs_et_appliances",
+      "email": "DSP-SI_EIR_TECH_A-P_Tous@sncf.fr"
+    },
+    "license": {
+      "name": "GNU AGPLv3",
+      "url": "https://www.gnu.org/licenses/agpl.txt"
+    },
+    "version": "1.0.0"
+  },
+  "components": {
+    "securitySchemes": {
+      "HTTP Security": {
+        "type": "http",
+        "scheme": "Basic"
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "nommage",
+      "description": ""
+    }
+  ]
+}
